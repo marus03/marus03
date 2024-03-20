@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me marekpalinski2204@gmail.com
 - 😄 Pronouns: Light/ning
-- ⚡ Fun fact: I prefere dogs than cats ;)
+- ⚡ Fun fact: We live on the flying piece of rock :)
 
 <!---
 marus03/marus03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
