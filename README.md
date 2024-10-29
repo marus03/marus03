@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @marus03
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Pandas/Matplotlib/Git/SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning Machine Learning/Data analysis
 - 📫 How to reach me marekpalinski2204@gmail.com
-- 😄 Pronouns: Light/ning
-- ⚡ Fun fact: We live on the flying piece of rock :)
 
 <!---
 marus03/marus03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
