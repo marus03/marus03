@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marus03
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning Machine Learning/Data analysis
+- 🌱 I’m currently learning PowerPivot, DAX, PowerBI, Python
 - 📫 How to reach me marekpalinski2204@gmail.com
 
 <!---
