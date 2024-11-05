@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marus03
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning PowerPivot, DAX, PowerBI, Python(ML)
-- 📫 How to reach me marekpalinski2204@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/marek-pali%C5%84ski-b76a6a257/
 
 <!---
 marus03/marus03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
