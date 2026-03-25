@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marus03
-- 👀 I’m interested in ML/Big Data/Data Science/Data Analysis
+- 👀 I’m interested in Web Development and data-related fields.
 - 🌱 I’m currently learning PowerPivot, DAX, PowerBI, LLM (including RAG system)
 - 📫 How to reach me https://www.linkedin.com/in/marek-pali%C5%84ski-b76a6a257/
 
